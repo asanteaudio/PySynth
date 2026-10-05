@@ -1,1 +1,1 @@
-#PySynth!
+#PySynth! v0.1.0
